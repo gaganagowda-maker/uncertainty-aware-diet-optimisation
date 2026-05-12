@@ -1,0 +1,7 @@
+pandas
+numpy
+pulp
+cvxpy
+matplotlib
+scipy
+openpyxl
